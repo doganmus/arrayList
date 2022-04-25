@@ -1,2 +1,2 @@
 # arrayList
-Patika.dev arrayList
+https://www.patika.dev/tr
