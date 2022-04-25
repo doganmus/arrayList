@@ -1,0 +1,16 @@
+D:\education\PatikaPratikler\arrayList\bin\Debug\net5.0\arrayList.exe
+D:\education\PatikaPratikler\arrayList\bin\Debug\net5.0\arrayList.deps.json
+D:\education\PatikaPratikler\arrayList\bin\Debug\net5.0\arrayList.runtimeconfig.json
+D:\education\PatikaPratikler\arrayList\bin\Debug\net5.0\arrayList.runtimeconfig.dev.json
+D:\education\PatikaPratikler\arrayList\bin\Debug\net5.0\arrayList.dll
+D:\education\PatikaPratikler\arrayList\bin\Debug\net5.0\arrayList.pdb
+D:\education\PatikaPratikler\arrayList\obj\Debug\net5.0\arrayList.csproj.AssemblyReference.cache
+D:\education\PatikaPratikler\arrayList\obj\Debug\net5.0\arrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\PatikaPratikler\arrayList\obj\Debug\net5.0\arrayList.AssemblyInfoInputs.cache
+D:\education\PatikaPratikler\arrayList\obj\Debug\net5.0\arrayList.AssemblyInfo.cs
+D:\education\PatikaPratikler\arrayList\obj\Debug\net5.0\arrayList.csproj.CoreCompileInputs.cache
+D:\education\PatikaPratikler\arrayList\obj\Debug\net5.0\arrayList.dll
+D:\education\PatikaPratikler\arrayList\obj\Debug\net5.0\refint\arrayList.dll
+D:\education\PatikaPratikler\arrayList\obj\Debug\net5.0\arrayList.pdb
+D:\education\PatikaPratikler\arrayList\obj\Debug\net5.0\arrayList.genruntimeconfig.cache
+D:\education\PatikaPratikler\arrayList\obj\Debug\net5.0\ref\arrayList.dll
